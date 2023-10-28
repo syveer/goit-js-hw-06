@@ -13,3 +13,4 @@ ingredients.forEach((ingredient) => {
   li.classList.add("item");
   ul.appendChild(li);
 });
+console.log();
