@@ -7,4 +7,4 @@ categoriesList.forEach((category) => {
   totalCategories += 1;
 });
 
-console.log(`Number of categories: ${categoryElements.length}`);
+console.log(`Number of categories: ${totalCategories}`);
